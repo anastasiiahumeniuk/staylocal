@@ -1,1 +1,2 @@
 Calendar synchronization service
+Calendar conflict resolution fixed
